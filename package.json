@@ -3,6 +3,18 @@
   "version": "1.0.0",
   "private": true,
   "homepage": "https://md-sohrab-alam.github.io/image-resize-kro",
+  "keywords": [
+    "image-compression",
+    "image-resize",
+    "react",
+    "typescript",
+    "image-optimization",
+    "browser-image-compression",
+    "web-app",
+    "image-utils",
+    "compress-images",
+    "image-processing"
+  ],
   "dependencies": {
     "@emotion/react": "^11.11.0",
     "@emotion/styled": "^11.11.0",
